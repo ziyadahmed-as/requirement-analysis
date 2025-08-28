@@ -229,5 +229,36 @@ Non-functional requirements define **how the system should perform** rather than
 - **Functional Requirements** = What the system does (features, actions, behaviors).  
 - **Non-functional Requirements** = How the system performs (quality, standards, constraints).  
 Both are essential in the **Booking Management Project** to ensure it meets user needs while delivering reliability, performance, and security.  
+## 5. Use Case Diagrams
+
+### What are Use Case Diagrams?
+A **Use Case Diagram** is a visual representation of how different users (actors) interact with a system. It identifies the **actors** (e.g., users, administrators) and the **use cases** (functionalities or services) they engage with.  
+
+Use Case Diagrams help in:
+- Understanding the functional requirements of a system.
+- Clarifying how the system will be used by different stakeholders.
+- Providing a high-level overview for both technical and non-technical stakeholders.
+- Serving as a foundation for more detailed system design.
+
+### Example: Booking Management System
+
+Below is a Use Case Diagram for a **Booking Management System**.  
+
+- **Actors**:  
+  - **Customer**: Makes and manages bookings.  
+  - **Admin**: Oversees and manages the system.  
+
+- **Use Cases**:  
+  - Register/Login  
+  - Search for Available Rooms  
+  - Make a Booking  
+  - Cancel Booking  
+  - View Booking Details  
+  - Manage Bookings (Admin)  
+  - Generate Reports (Admin)  
+
+### Diagram
+
+![Use Case Diagram for Booking System](./usecase diagra.png)
 
 
