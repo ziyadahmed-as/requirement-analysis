@@ -193,3 +193,41 @@ Requirement Analysis is not limited to understanding what stakeholders want—it
 
 ## 📌 Summary  
 The effectiveness of Requirement Analysis depends on how well these five activities are performed. Each step—gathering, elicitation, documentation, analysis, and validation—ensures that the project is built on a solid foundation, reducing risks and increasing the likelihood of success.  
+
+
+# Types of Requirements  
+
+Requirement Analysis typically classifies requirements into two main categories: **Functional** and **Non-functional Requirements**. Both play a critical role in ensuring the success of a system, as they describe not only what the system should do but also how well it should perform.  
+
+---
+
+## Functional Requirements  
+Functional requirements define **what the system should do**. They specify the features, behaviors, and services that the system must provide to meet user and business needs.  
+
+### Examples (Booking Management Project)  
+- The system shall allow customers to **search for available rooms** based on date, type, and price range.  
+- The system shall allow customers to **book a room online** by filling in required details (name, contact, payment).  
+- The system shall generate a **unique booking reference number** for each confirmed reservation.  
+- The system shall allow administrators to **view, edit, or cancel bookings**.  
+- The system shall send an **email or SMS notification** to confirm the booking.  
+
+---
+
+## Non-functional Requirements  
+Non-functional requirements define **how the system should perform** rather than what it does. They describe quality attributes, constraints, and standards that the system must meet.  
+
+### Examples (Booking Management Project)  
+- **Performance:** The system should handle at least **500 concurrent booking requests** without degradation.  
+- **Security:** All user data, including payment details, must be stored securely using **encryption standards** (e.g., AES-256).  
+- **Availability:** The system must maintain **99.9% uptime** to ensure continuous access.  
+- **Usability:** The booking process should not take more than **3 steps** from search to confirmation.  
+- **Scalability:** The system must be able to support **future expansion** (e.g., multiple hotels or branches).  
+
+---
+
+## 📌 Summary  
+- **Functional Requirements** = What the system does (features, actions, behaviors).  
+- **Non-functional Requirements** = How the system performs (quality, standards, constraints).  
+Both are essential in the **Booking Management Project** to ensure it meets user needs while delivering reliability, performance, and security.  
+
+
