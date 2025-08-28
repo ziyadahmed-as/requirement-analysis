@@ -148,3 +148,48 @@ By identifying potential challenges, constraints, and dependencies early in the 
 
 ## 📌 Conclusion  
 Requirement Analysis is not just a preliminary step—it is a **strategic necessity** in software development. By ensuring clarity, saving resources, improving quality, guiding planning, and reducing risks, it sets the stage for building software solutions that truly deliver value.  
+
+
+# Key Activities in Requirement Analysis  
+
+Requirement Analysis is not limited to understanding what stakeholders want—it involves a systematic set of activities that ensure the requirements are properly identified, analyzed, documented, and validated. Below are the **five key activities** involved in Requirement Analysis:  
+
+---
+
+## 1. Requirement Gathering  
+- Collect information from stakeholders, customers, users, and other sources.  
+- Use interviews, surveys, questionnaires, and brainstorming sessions.  
+- Focus on understanding **what the client needs** rather than jumping to solutions.  
+
+---
+
+## 2. Requirement Elicitation  
+- Engage stakeholders actively to extract both **explicit and implicit needs**.  
+- Techniques: workshops, focus groups, observation, prototyping.  
+- Address challenges like conflicting requirements and unclear expectations.  
+
+---
+
+## 3. Requirement Documentation  
+- Record the gathered requirements in a structured, clear, and concise format.  
+- Use **Software Requirement Specification (SRS)** documents, user stories, or use cases.  
+- Ensure documentation is **understandable** for both technical and non-technical stakeholders.  
+
+---
+
+## 4. Requirement Analysis and Modeling  
+- Examine requirements to ensure they are **feasible, consistent, and complete**.  
+- Identify dependencies, constraints, and potential conflicts.  
+- Use models such as **data flow diagrams, UML diagrams, and prototypes** to visualize requirements.  
+
+---
+
+## 5. Requirement Validation  
+- Verify that requirements align with stakeholder needs and business goals.  
+- Conduct **reviews, walkthroughs, and inspections** with stakeholders.  
+- Ensure requirements are testable, achievable, and traceable.  
+
+---
+
+## 📌 Summary  
+The effectiveness of Requirement Analysis depends on how well these five activities are performed. Each step—gathering, elicitation, documentation, analysis, and validation—ensures that the project is built on a solid foundation, reducing risks and increasing the likelihood of success.  
