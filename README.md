@@ -259,6 +259,6 @@ Below is a Use Case Diagram for a **Booking Management System**.
 
 ### Diagram
 
-![Use Case Diagram for Booking System](UseCase.png)
+![Use Case Diagram for Booking System](alx-booking-uc.png)
 
 
